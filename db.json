@@ -1,4 +1,4 @@
-[
+{ "Produtos":    [
     {
         "id": 1,
         "nome": "Shampoo Wella Professionals",
@@ -30,3 +30,4 @@
         "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhiVNehhYGHZvuBCjK0TMkhXNppeFNoPYgWLBLSN55QA&s=10"
     }
 ]
+}
