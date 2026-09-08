@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Shampoo Wella Professionals",
+        "preço": 89.90,
+        "imagem": "https://m.media-amazon.com/images/I/51dizHiLg2L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Condicionador Wella Professionals",
+        "preço": 94.90,
+        "imagem": "https://imgmarketplace.lojasrenner.com.br/20001/3027/7010701101833/7510701904149/0.jpeg"
+    },
+    {
+        "id": 3,
+        "nome": "Máscara de Hidratação L'Oréal Professionnel",
+        "preço": 119.90,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4SGd5OTnE9GyimZ_GURm75_UvbFluSgfwUpcfxyX3w&s=10"
+    },
+    {
+        "id": 4,
+        "nome": "Óleo Reparador de Pontas Kérastase",
+        "preço": 189.90,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQ1IdM0E0BKtBCexjnDdIkSZfD1L5w99Jdq_O2fo0LDDvL1OKyUF6j94&s=10"
+    },
+    {
+        "id": 5,
+        "nome": "Leave-in Protetor Térmico Lola",
+        "preço": 69.90,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhiVNehhYGHZvuBCjK0TMkhXNppeFNoPYgWLBLSN55QA&s=10"
+    }
+]
